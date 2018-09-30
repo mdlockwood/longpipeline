@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Stage1') {
       when {
-        branch 'master'
+        branch 'feature/*'
       }
       steps {
         sleep 3
