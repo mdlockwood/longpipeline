@@ -1,102 +1,102 @@
 pipeline {
   agent any
   stages {
-    stage('Step1') {
+    stage('Stage1') {
       steps {
         sleep 10
       }
     }
-    stage('Step2') {
+    stage('Stage2') {
       steps {
         sleep 10
       }
     }
-    stage('Step3') {
+    stage('Stage3') {
       steps {
         sleep 10
       }
     }
-    stage('Step4') {
+    stage('Stage4') {
       steps {
         sleep 10
       }
     }
-    stage('Step5') {
+    stage('Stage5') {
       steps {
         sleep 10
       }
     }
-    stage('Step6') {
+    stage('Stage6') {
       steps {
         sleep 10
       }
     }
-    stage('Step7') {
+    stage('Stage7') {
       steps {
         sleep 10
       }
     }
-    stage('Step8') {
+    stage('Stage8') {
       steps {
         sleep 10
       }
     }
-    stage('Step9') {
+    stage('Stage9') {
       steps {
         sleep 10
       }
     }
-    stage('Step10') {
+    stage('Stage10') {
       steps {
         sleep 10
       }
     }
-    stage('Step11') {
+    stage('Stage11') {
       steps {
         sleep 10
       }
     }
-    stage('Step12') {
+    stage('Stage12') {
       steps {
         sleep 10
       }
     }
-    stage('Step13') {
+    stage('Stage13') {
       steps {
         sleep 10
       }
     }
-    stage('Step14') {
+    stage('Stage14') {
       steps {
         sleep 10
       }
     }
-    stage('Step15') {
+    stage('Stage15') {
       steps {
         sleep 10
       }
     }
-    stage('Step16') {
+    stage('Stage16') {
       steps {
         sleep 10
       }
     }
-    stage('Step17') {
+    stage('Stage17') {
       steps {
         sleep 10
       }
     }
-    stage('Step18') {
+    stage('Stage18') {
       steps {
         sleep 10
       }
     }
-    stage('Step19') {
+    stage('Stage19') {
       steps {
         sleep 10
       }
     }
-    stage('Step120') {
+    stage('Stage120') {
       steps {
         sleep 10
       }
